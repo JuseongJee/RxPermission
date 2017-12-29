@@ -1,11 +1,15 @@
 # RxPermission
 
 [![CocoaPods](https://img.shields.io/cocoapods/v/RxPermission.svg)](https://github.com/sunshinejr/RxPermission)
-![Swift 3.0.x](https://img.shields.io/badge/Swift-3.0.x-orange.svg)
+![Swift 4.0.x](https://img.shields.io/badge/Swift-4.0.x-orange.svg)
 [![License](https://img.shields.io/cocoapods/l/RxPermission.svg?style=flat)](http://cocoapods.org/pods/RxPermission)
 [![Platform](https://img.shields.io/cocoapods/p/RxPermission.svg?style=flat)](http://cocoapods.org/pods/RxPermission)
 
+***This repository is a fork of the original project https://github.com/Dschee/Permission. It's because the orignal project [Permission](https://github.com/delba/Permission) had not maintained until now. so use [Dschee-Permission](https://github.com/Dschee/Permission) for dependancy***
+
 [RxSwift](https://github.com/ReactiveX/RxSwift) bindings for [Permission](https://github.com/delba/Permission) API that helps you with Permissions in iOS.
+
+
 
 ## Installation
 
